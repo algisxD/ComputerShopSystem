@@ -1,0 +1,2 @@
+# Ekscentricitetas
+Infomacinių sistemų pagrindai
